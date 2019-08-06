@@ -1,0 +1,1 @@
+csc /reference:BibOprs.dll Calculadora.cs

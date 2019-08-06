@@ -1,0 +1,1 @@
+csc /target:library /out:BibOprs.dll suma.cs resta.cs mult.cs div.cs
